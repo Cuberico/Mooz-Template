@@ -36,6 +36,6 @@
 
 
 ### ERR0R 005
-*This error occurs when the Mooz core folder is not readable*
+*This error occurs when the Styles file is not readable or writable or even when it does not exist*
 #### Solution
     Updating...
