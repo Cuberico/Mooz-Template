@@ -39,6 +39,9 @@
 *This error occurs when the Styles file is not readable or writable or even when it does not exist*
 #### Solution
 To fix error 005 you should be logged in as administrator, but if not, we also have another option
-==== Started as administrator (in the panel section it will show you the error you just have to click Yes and the template will start the reinstallation process if it is not effective use the next step)
 
-==== You are not logged in as administrator (If for some reason you cannot enter the panel, you can go to the folder that contains the NamelessMC installation and go to the `/cache/` folder, there you should look for the file `d158baba76918cba404ac4ed3da2b2ff345227cd.cache` and remove it, before reloading the page, go to  `/custom/templates/Mooz/core/settings` and rename `styles.light.json` to `styles.json` after you do, you can reload the page and it should work fine)
+  ##### Started as administrator 
+  (in the panel section it will show you the error you just have to click Yes and the template will start the reinstallation process if it is not effective use the next step)
+
+  ##### You are not logged in as administrator 
+  (If for some reason you cannot enter the panel, you can go to the folder that contains the NamelessMC installation and go to the `/cache/` folder, there you should look for the file `d158baba76918cba404ac4ed3da2b2ff345227cd.cache` and remove it, before reloading the page, go to  `/custom/templates/Mooz/core/settings` and rename `styles.light.json` to `styles.json` after you do, you can reload the page and it should work fine)
