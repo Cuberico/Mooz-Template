@@ -4,4 +4,4 @@
 
 
 #### Header Icons
-[![Header Icons](https://www.youtube.com/watch?v=bMq6g2Z34PQ)
+[![Watch the video](https://i.ytimg.com/vi/bMq6g2Z34PQ/hqdefault.jpg)](https://youtu.be/bMq6g2Z34PQ)
