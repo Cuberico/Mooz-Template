@@ -1,4 +1,4 @@
-![MoozTemplae](https://i.imgur.com/bVY5OIB.png)
+![MoozTemplate](https://i.imgur.com/bVY5OIB.png)
 
 ## Welcome to the Mooz template documentation
 
