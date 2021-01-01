@@ -1,2 +1,1 @@
-# Mooz-Template
-La plantilla gratuita de zJerino
+# Mooz-Template v2-pre1
